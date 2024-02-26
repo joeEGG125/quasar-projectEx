@@ -1,0 +1,58 @@
+[
+    {
+        "label": "例題群組1",
+        "content": "試題群組",
+        "icon": "verified",
+        "children": [
+            {
+                "title": "HomePage",
+                "caption": "HomePage",
+                "icon": "house",
+                "link": "/"
+            },
+            {
+                "title": "Quasar Account Example",
+                "caption": "Account 例題",
+                "icon": "manage_accounts",
+                "link": "/account_ex1"
+            },
+            {
+                "title": "Quasar Product Example",
+                "caption": "Product 例題",
+                "icon": "shopping_cart",
+                "link": "/product_ex2"
+            },
+            {
+                "title": "Quasar Json Example",
+                "caption": "透過Axios讀取json 例題",
+                "icon": "segment",
+                "link": "/table_ex3"
+            },
+            {
+                "title": "Quasar AccountLoading Example",
+                "caption": "送出資料後Loading",
+                "icon": "manage_accounts",
+                "link": "/accountLoading_ex4"
+            }
+        ]
+    },
+    {
+        "label": "進階例題2",
+        "content": "調用API檢核",
+        "icon": "verified",
+        "children" : [
+            {
+                "title": "調用API判斷使用者登入",
+                "caption": "",
+                "icon": "manage_accounts",
+                "link": "/userLogin"
+            },
+            {
+                "title": "商品調用API列表",
+                "caption": "",
+                "icon": "shopping_cart",
+                "link": "/userProduction"
+            }
+        ]
+    }
+]

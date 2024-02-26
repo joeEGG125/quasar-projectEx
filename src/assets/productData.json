@@ -1,0 +1,66 @@
+[
+    {
+        "number": "1",
+        "productname": "acer_5456052sdfsdvfwer",
+        "price": "165000",
+        "startofdate": "2023-05-08",
+        "endofdate": "2023-12-23",
+        "tax": "免稅"
+    },
+    {
+        "number": "2",
+        "productname": "55454sdsdfdsf_sdf",
+        "price": "254400",
+        "startofdate": "2023-11-06",
+        "endofdate": "2023-12-23",
+        "tax": "應稅"
+    },
+    {
+        "number": "3",
+        "productname": "acer_545605fwer",
+        "price": "25774",
+        "startofdate": "2023-05-12",
+        "endofdate": "2023-12-23",
+        "tax": "應稅"
+    },
+    {
+        "number": "4",
+        "productname": "acer_54560fsdvfrrvvr",
+        "price": "29999",
+        "startofdate": "2023-04-16",
+        "endofdate": "2023-12-23",
+        "tax": "應稅"
+    },
+    {
+        "number": "5",
+        "productname": "acer_54565465r",
+        "price": "25440",
+        "startofdate": "2023-05-27",
+        "endofdate": "2023-09-19",
+        "tax": "免稅"
+    },
+    {
+        "number": "6",
+        "productname": "acer_5456ert51vfwer",
+        "price": "988843",
+        "startofdate": "2023-05-06",
+        "endofdate": "2023-08-05",
+        "tax": "應稅"
+    },
+    {
+        "number": "7",
+        "productname": "acer_5dsdf1298333",
+        "price": "12200",
+        "startofdate": "2023-01-01",
+        "endofdate": "2023-06-23",
+        "tax": "免稅"
+    },
+    {
+        "number": "8",
+        "productname": "acer_5456052sdfsdvfgbgbbb",
+        "price": "6500",
+        "startofdate": "2023-01-31",
+        "endofdate": "2023-02-23",
+        "tax": "應稅"
+    }
+]
